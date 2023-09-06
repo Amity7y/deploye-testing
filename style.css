@@ -1,15 +1,5 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    justify-self: center;
-    align-items: center;
-}
+    ma
 h1{
     border: 1px solid black;
     box-shadow: 0 0 5px black;
